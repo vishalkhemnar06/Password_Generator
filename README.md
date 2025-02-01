@@ -23,10 +23,8 @@ Clone this project to your local machine using the following command:
 ```bash
 git clone https://github.com/vishalkhemnar06/random-password-generator.git
 
-### 2. **Install Dependencies**
-```bash
+2. **Install Dependencies**
 npm install
 
-### 1. **Run Project**
-```bash
+3. **Run Project**
 npm run dev
